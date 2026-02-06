@@ -1,0 +1,4 @@
+performance_segment,count,avg_pnl,avg_win_rate
+Consistent Loser,3,-89753.64,0.38
+Consistent Winner,3,206866.63,0.63
+Inconsistent,26,382523.84,0.38

@@ -1,0 +1,42 @@
+======================================================================
+ACTIONABLE STRATEGY RECOMMENDATIONS
+Based on Trader Performance vs Market Sentiment Analysis
+======================================================================
+
+
+STRATEGY 1: CONTRARIAN VOLUME APPROACH
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+Observation: High-volume traders perform BETTER during Fear days 
+  (Avg PnL: $340702.55) vs Greed days ($102464.27)
+
+Recommendation: 
+  • INCREASE position sizes during Fear periods (when index < 40)
+  • REDUCE position sizes during Greed periods (when index > 60)
+  • High-volume traders should be more aggressive during market fear
+  
+Rationale: Counter-intuitive result suggests high-volume traders 
+capitalize on fear-driven volatility and discounted entry points.
+
+
+STRATEGY 2: SENTIMENT-ADAPTIVE TRADING FREQUENCY
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+Observation: 
+  • Long ratio during Fear: 45.9%
+  • Long ratio during Greed: 49.4%
+  • Trade frequency changes across sentiment regimes
+
+Recommendation:
+  • During FEAR days: 
+    - Reduce trading frequency by 20-30%
+    - Focus on higher-conviction trades only
+    - Consider increasing short exposure if long ratio > 55%
+    
+  • During GREED days:
+    - Maintain normal trading frequency
+    - Slight long bias acceptable (up to 60%)
+    - Set tighter stop-losses due to potential reversals
+    
+Rationale: Fear periods show higher volatility and less predictable
+outcomes. Reducing frequency during fear preserves capital while 
+maintaining exposure to high-probability setups.
+
